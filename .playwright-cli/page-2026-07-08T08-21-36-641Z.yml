@@ -1,0 +1,499 @@
+- generic [active] [ref=e1]:
+  - button "开启读屏标签" [ref=e2]
+  - generic: 读屏标签已关闭
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: //www.douyin.com/jingxuan
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - link "精选" [ref=e19] [cursor=pointer]:
+            - /url: https://www.douyin.com/jingxuan?from_nav=1
+            - generic [ref=e22]: 精选
+          - link "推荐" [ref=e27] [cursor=pointer]:
+            - /url: https://www.douyin.com/?recommend=1&from_nav=1
+            - generic [ref=e30]: 推荐
+          - link "搜索" [ref=e35] [cursor=pointer]:
+            - /url: https://www.douyin.com/aisearch?from_nav=1
+            - generic [ref=e38]: 搜索
+          - link "关注" [ref=e44] [cursor=pointer]:
+            - /url: https://www.douyin.com/follow?from_nav=1
+            - generic [ref=e47]: 关注
+          - link "朋友" [ref=e52] [cursor=pointer]:
+            - /url: https://www.douyin.com/friend?from_nav=1
+            - generic [ref=e55]: 朋友
+          - link "我的" [ref=e60] [cursor=pointer]:
+            - /url: https://www.douyin.com/user/self?from_nav=1
+            - generic [ref=e63]: 我的
+          - link "直播" [ref=e69] [cursor=pointer]:
+            - /url: https://live.douyin.com/?from_nav=1
+            - generic [ref=e72]: 直播
+          - link "放映厅" [ref=e77] [cursor=pointer]:
+            - /url: https://www.douyin.com/vs?from_nav=1
+            - generic [ref=e80]: 放映厅
+          - link "短剧" [ref=e85] [cursor=pointer]:
+            - /url: https://www.douyin.com/series?from_nav=1
+            - generic [ref=e88]: 短剧
+          - link "小游戏" [ref=e93] [cursor=pointer]:
+            - /url: https://www.douyin.com/microgame?from_nav=1
+            - generic [ref=e96]: 小游戏
+        - generic [ref=e100]:
+          - img [ref=e103] [cursor=pointer]
+          - img [ref=e107] [cursor=pointer]
+          - img [ref=e111] [cursor=pointer]
+    - generic [ref=e114]:
+      - banner [ref=e117]:
+        - generic [ref=e119]:
+          - generic [ref=e123]:
+            - generic [ref=e124]:
+              - generic [ref=e126]: 给老丈人赐姓田
+              - textbox [ref=e127]
+            - button "搜索" [ref=e129] [cursor=pointer]:
+              - img [ref=e130]
+              - generic [ref=e132]: 搜索
+          - generic [ref=e136]:
+            - generic [ref=e141] [cursor=pointer]:
+              - img [ref=e143]:
+                - img [ref=e144]
+              - paragraph [ref=e146]: 充钻石
+            - link "客户端" [ref=e151] [cursor=pointer]:
+              - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/412317310/8.1.1/win32-ia32/douyin-downloader-v8.1.1-win32-ia32-douyincold.exe
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - img [ref=e155]:
+                    - img [ref=e156]
+                  - paragraph [ref=e159]: 客户端
+                - img [ref=e161]
+            - generic [ref=e167] [cursor=pointer]:
+              - img [ref=e169]:
+                - img [ref=e170]
+              - generic [ref=e172]: 壁纸
+            - list [ref=e173]:
+              - generic [ref=e177] [cursor=pointer]:
+                - img [ref=e179]:
+                  - img [ref=e180]
+                - paragraph [ref=e183]: 通知
+            - list [ref=e184]:
+              - paragraph [ref=e191] [cursor=pointer]: 消息
+            - generic [ref=e195] [cursor=pointer]:
+              - img [ref=e197]:
+                - img [ref=e198]
+              - paragraph [ref=e200]: 投稿
+            - button "登录" [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]:
+                - img [ref=e206]
+                - paragraph [ref=e209]: 登录
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - generic [ref=e215]:
+            - generic [ref=e217] [cursor=pointer]:
+              - generic [ref=e219]:
+                - generic [ref=e220]:
+                  - img [ref=e223]:
+                    - img [ref=e224]
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: 00:00
+                    - generic [ref=e229]: /
+                    - generic [ref=e230]: 00:20
+                  - img [ref=e234]:
+                    - img [ref=e235]
+                - generic [ref=e241]:
+                  - img [ref=e244]:
+                    - img [ref=e245]
+                  - img [ref=e249]
+                  - generic [ref=e251]:
+                    - generic [ref=e252]: 因浏览器限制，当前为静音
+                    - button "打开声音" [ref=e253]:
+                      - generic [ref=e254]: 打开声音
+                    - img [ref=e255]:
+                      - img [ref=e256]
+                    - img [ref=e258]:
+                      - img [ref=e259]
+                  - img [ref=e263]:
+                    - img [ref=e264]
+                  - img [ref=e268]:
+                    - img [ref=e269]
+                  - img [ref=e275]
+                  - generic [ref=e278]: 倍速
+                  - generic [ref=e281]: 智能
+                  - generic [ref=e284]:
+                    - button [ref=e285]
+                    - generic [ref=e286]: 清屏
+                  - generic [ref=e289]:
+                    - button [ref=e290]
+                    - generic [ref=e291]: 连播
+              - generic [ref=e295]:
+                - img [ref=e297]:
+                  - img [ref=e298]
+                - img [ref=e302]:
+                  - img [ref=e303]
+              - generic [ref=e306]:
+                - img [ref=e307]
+                - img [ref=e308]:
+                  - img [ref=e309]
+            - generic [ref=e314]:
+              - 'heading "孩的名想好了 办理签证护照被收走了，给了一张纸质证明，坐火车住酒店都得带这个纸，上面“中文名”是空白的，那以后就叫“程诗雅”吧，我叫程宇星，孩子叫星雅还可以吧😆😆 #中外夫妻#中外情侣#跨国恋#异国恋#外国媳妇" [level=1] [ref=e317]':
+                - generic [ref=e320]:
+                  - generic [ref=e324]:
+                    - text: 孩的名想好了 办理签证护照被收走了，给了一张纸质证明，坐火车住酒店都得带这个纸，上面“中文名”是空白的，那以后就叫“程诗雅”吧，我叫程宇星，孩子叫星雅还可以吧
+                    - img "😆" [ref=e325]
+                    - img "😆" [ref=e326]
+                  - link "#中外夫妻" [ref=e328] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/%E4%B8%AD%E5%A4%96%E5%A4%AB%E5%A6%BB?enter_from=video_detail&source=pc_click_hashtag_feed
+                  - link "#中外情侣" [ref=e330] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/%E4%B8%AD%E5%A4%96%E6%83%85%E4%BE%A3?enter_from=video_detail&source=pc_click_hashtag_feed
+                  - link "#跨国恋" [ref=e332] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/%E8%B7%A8%E5%9B%BD%E6%81%8B?enter_from=video_detail&source=pc_click_hashtag_feed
+                  - link "#异国恋" [ref=e334] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/%E5%BC%82%E5%9B%BD%E6%81%8B?enter_from=video_detail&source=pc_click_hashtag_feed
+                  - link "#外国媳妇" [ref=e336] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/%E5%A4%96%E5%9B%BD%E5%AA%B3%E5%A6%87?enter_from=video_detail&source=pc_click_hashtag_feed
+              - generic [ref=e337]:
+                - generic [ref=e338]:
+                  - generic [ref=e339] [cursor=pointer]:
+                    - img [ref=e342]
+                    - generic [ref=e350]: 5.4万
+                  - generic [ref=e351] [cursor=pointer]:
+                    - img [ref=e354]
+                    - generic [ref=e359]: 1.3万
+                  - generic [ref=e360] [cursor=pointer]:
+                    - img [ref=e363]
+                    - generic [ref=e372]: "1473"
+                  - generic [ref=e373] [cursor=pointer]:
+                    - img [ref=e376]
+                    - generic [ref=e381]: "5874"
+                - generic [ref=e382]:
+                  - generic [ref=e383] [cursor=pointer]:
+                    - img [ref=e384]
+                    - generic [ref=e386]: 举报
+                  - generic [ref=e387]: 发布时间：2026-06-29 16:21
+            - generic [ref=e391]:
+              - generic [ref=e393]: 全部评论
+              - generic [ref=e396]:
+                - img [ref=e399] [cursor=pointer]
+                - generic [ref=e408] [cursor=pointer]: 请先登录后发表评论
+              - generic [ref=e410]:
+                - generic [ref=e411]: 大家都在搜：
+                - link "给老丈人赐姓田" [ref=e415] [cursor=pointer]:
+                  - /url: //www.douyin.com/search/%E7%BB%99%E8%80%81%E4%B8%88%E4%BA%BA%E8%B5%90%E5%A7%93%E7%94%B0?aweme_id=7656729743480129699&enter_from=video_detail&gid=7656729743480129699&source=comment_related_search
+                  - generic [ref=e416]: 给老丈人赐姓田
+                  - img [ref=e417]
+          - generic [ref=e420]:
+            - generic [ref=e421]:
+              - link "🇨🇳星雅～🇷🇺" [ref=e424] [cursor=pointer]:
+                - /url: //www.douyin.com/user/MS4wLjABAAAAcD71LRsMXdOFixP9zmhmLbzuIySFbLfy3GDQynP5TJ4LZVQs9pnVorUfQeZwgvb3
+                - listitem [ref=e425]:
+                  - img "🇨🇳星雅～🇷🇺" [ref=e426]
+              - generic [ref=e427]:
+                - link "🇨🇳星雅～🇷🇺" [ref=e428] [cursor=pointer]:
+                  - /url: //www.douyin.com/user/MS4wLjABAAAAcD71LRsMXdOFixP9zmhmLbzuIySFbLfy3GDQynP5TJ4LZVQs9pnVorUfQeZwgvb3
+                  - generic [ref=e435]:
+                    - img "🇨🇳" [ref=e436]
+                    - text: 星雅～
+                    - img "🇷🇺" [ref=e437]
+                - paragraph [ref=e438]: 粉丝6915获赞11.3万
+              - button "关注" [ref=e440] [cursor=pointer]:
+                - generic [ref=e441]: 关注
+            - generic [ref=e443]:
+              - heading "推荐视频" [level=2] [ref=e445]
+              - list [ref=e446]:
+                - listitem [ref=e447]:
+                  - generic [ref=e448]:
+                    - link "缇娜明天毕业考试 本来就不让她去俄罗斯 最近不太平 她坚持必须得去 要不然这几年白折腾了 大家不用担心 她考完试就去白俄罗斯 然后去进蜜蜡 就回来了 等待爱妻平安落地吧 04:11" [ref=e450] [cursor=pointer]:
+                      - /url: //www.douyin.com/video/7655211894923782522
+                      - img "缇娜明天毕业考试 本来就不让她去俄罗斯 最近不太平 她坚持必须得去 要不然这几年白折腾了 大家不用担心 她考完试就去白俄罗斯 然后去进蜜蜡 就回来了 等待爱妻平安落地吧" [ref=e454]
+                      - generic [ref=e456]: 04:11
+                    - generic [ref=e457]:
+                      - heading "缇娜明天毕业考试 本来就不让她去俄罗斯 最近不太平 她坚持必须得去 要不然这几年白折腾了 大家不用担心 她考完试就去白俄罗斯 然后去进蜜蜡 就回来了 等待爱妻平安落地吧" [level=3] [ref=e458]:
+                        - link "缇娜明天毕业考试 本来就不让她去俄罗斯 最近不太平 她坚持必须得去 要不然这几年白折腾了 大家不用担心 她考完试就去白俄罗斯 然后去进蜜蜡 就回来了 等待爱妻平安落地吧" [ref=e459] [cursor=pointer]:
+                          - /url: //www.douyin.com/video/7655211894923782522
+                          - generic [ref=e464]: 缇娜明天毕业考试 本来就不让她去俄罗斯 最近不太平 她坚持必须得去 要不然这几年白折腾了 大家不用担心 她考完试就去白俄罗斯 然后去进蜜蜡 就回来了 等待爱妻平安落地吧
+                      - generic [ref=e465]:
+                        - generic [ref=e466]:
+                          - img [ref=e467]
+                          - text: "8575"
+                        - link "晨和缇娜" [ref=e470] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAATFMAl7aUM3w6RWdymdKV6IK7MK0bzhbyoScfQi4OVxw?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e475]: 晨和缇娜
+                - listitem [ref=e476]:
+                  - generic [ref=e477]:
+                    - 'link "恭喜欧阳开小朋友拿到中国身份证，成为真正的中国人！路上遇到请不要叫我们外国宝宝啦🤣#混血宝宝 #外国媳妇 #婚姻家庭 00:10" [ref=e479] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7654888170635647055
+                      - 'img "恭喜欧阳开小朋友拿到中国身份证，成为真正的中国人！路上遇到请不要叫我们外国宝宝啦🤣#混血宝宝 #外国媳妇 #婚姻家庭" [ref=e483]'
+                      - generic [ref=e485]: 00:10
+                    - generic [ref=e486]:
+                      - 'heading "恭喜欧阳开小朋友拿到中国身份证，成为真正的中国人！路上遇到请不要叫我们外国宝宝啦🤣#混血宝宝 #外国媳妇 #婚姻家庭" [level=3] [ref=e487]':
+                        - 'link "恭喜欧阳开小朋友拿到中国身份证，成为真正的中国人！路上遇到请不要叫我们外国宝宝啦🤣#混血宝宝 #外国媳妇 #婚姻家庭" [ref=e488] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7654888170635647055
+                          - generic [ref=e494]:
+                            - text: 恭喜欧阳开小朋友拿到中国身份证，成为真正的中国人！路上遇到请不要叫我们外国宝宝啦
+                            - img "🤣" [ref=e495]
+                            - text: "#混血宝宝 #外国媳妇 #婚姻家庭"
+                      - generic [ref=e496]:
+                        - generic [ref=e497]:
+                          - img [ref=e498]
+                          - text: 1.2万
+                        - link "欧阳丽娜" [ref=e501] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAGC-BGbGzX_nWLxcyhhFUYCBUfTLQ6Ul_8NklOP7feWQNZg2BsbroM_KdMQsxLzDg?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e506]: 欧阳丽娜
+                - listitem [ref=e507]:
+                  - generic [ref=e508]:
+                    - 'link "普通人38.8彩礼太难攒了，睁眼看世界不仅谈了个身高179的模特，俄罗斯丈母娘还处处维护着我，又说要倒贴彩礼，可能这才是爱情本来的样子吧#俄罗斯美女#跨国恋 #异国恋#情侣日常 00:30" [ref=e510] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7657252702301187301
+                      - 'img "普通人38.8彩礼太难攒了，睁眼看世界不仅谈了个身高179的模特，俄罗斯丈母娘还处处维护着我，又说要倒贴彩礼，可能这才是爱情本来的样子吧#俄罗斯美女#跨国恋 #异国恋#情侣日常" [ref=e514]'
+                      - generic [ref=e516]: 00:30
+                    - generic [ref=e517]:
+                      - 'heading "普通人38.8彩礼太难攒了，睁眼看世界不仅谈了个身高179的模特，俄罗斯丈母娘还处处维护着我，又说要倒贴彩礼，可能这才是爱情本来的样子吧#俄罗斯美女#跨国恋 #异国恋#情侣日常" [level=3] [ref=e518]':
+                        - 'link "普通人38.8彩礼太难攒了，睁眼看世界不仅谈了个身高179的模特，俄罗斯丈母娘还处处维护着我，又说要倒贴彩礼，可能这才是爱情本来的样子吧#俄罗斯美女#跨国恋 #异国恋#情侣日常" [ref=e519] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7657252702301187301
+                          - generic [ref=e524]: "普通人38.8彩礼太难攒了，睁眼看世界不仅谈了个身高179的模特，俄罗斯丈母娘还处处维护着我，又说要倒贴彩礼，可能这才是爱情本来的样子吧#俄罗斯美女#跨国恋 #异国恋#情侣日常"
+                      - generic [ref=e525]:
+                        - generic [ref=e526]:
+                          - img [ref=e527]
+                          - text: 6.4万
+                        - link "东欧BMW" [ref=e530] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAA8dm0aJ9aKGn77pSksbJye4xTXEjHrcwJi31UdJh7eC-QKm3I1-8Iq7VoB7BD8Sto?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e535]: 东欧BMW
+                - listitem [ref=e536]:
+                  - generic [ref=e537]:
+                    - 'link "他可不会拿他的中国身份证开玩笑😂😂😂 #搞笑视频 #混血 #在华外国人@阿娃 00:28" [ref=e539] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7655615650660174843
+                      - 'img "他可不会拿他的中国身份证开玩笑😂😂😂 #搞笑视频 #混血 #在华外国人@阿娃" [ref=e543]'
+                      - generic [ref=e545]: 00:28
+                    - generic [ref=e546]:
+                      - 'heading "他可不会拿他的中国身份证开玩笑😂😂😂 #搞笑视频 #混血 #在华外国人@阿娃" [level=3] [ref=e547]':
+                        - 'link "他可不会拿他的中国身份证开玩笑😂😂😂 #搞笑视频 #混血 #在华外国人@阿娃" [ref=e548] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7655615650660174843
+                          - generic [ref=e554]:
+                            - text: 他可不会拿他的中国身份证开玩笑
+                            - img "😂" [ref=e555]
+                            - img "😂" [ref=e556]
+                            - img "😂" [ref=e557]
+                            - text: "#搞笑视频 #混血 #在华外国人@阿娃"
+                      - generic [ref=e558]:
+                        - generic [ref=e559]:
+                          - img [ref=e560]
+                          - text: 2.4万
+                        - link "阿娃一家" [ref=e563] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAA7hrymwsDjxuDQad4md7Z9Bp__JLN0dFBURYsffTa9kSoW00Cz7Pe5qGzpsS6oL9r?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e568]: 阿娃一家
+                - listitem [ref=e569]:
+                  - generic [ref=e570]:
+                    - link "跨越8800公里奔现英国女友，第一次吃中国零食，看看姐妹俩是啥反应？#在拍一种很新的vlog#外国女友#跨国恋#青年创作者成长计划#跨国情侣 06:19" [ref=e572] [cursor=pointer]:
+                      - /url: //www.douyin.com/video/7645255123732415483
+                      - img "跨越8800公里奔现英国女友，第一次吃中国零食，看看姐妹俩是啥反应？#在拍一种很新的vlog#外国女友#跨国恋#青年创作者成长计划#跨国情侣" [ref=e576]
+                      - generic [ref=e578]: 06:19
+                    - generic [ref=e579]:
+                      - heading "跨越8800公里奔现英国女友，第一次吃中国零食，看看姐妹俩是啥反应？#在拍一种很新的vlog#外国女友#跨国恋#青年创作者成长计划#跨国情侣" [level=3] [ref=e580]:
+                        - link "跨越8800公里奔现英国女友，第一次吃中国零食，看看姐妹俩是啥反应？#在拍一种很新的vlog#外国女友#跨国恋#青年创作者成长计划#跨国情侣" [ref=e581] [cursor=pointer]:
+                          - /url: //www.douyin.com/video/7645255123732415483
+                          - generic [ref=e586]: 跨越8800公里奔现英国女友，第一次吃中国零食，看看姐妹俩是啥反应？#在拍一种很新的vlog#外国女友#跨国恋#青年创作者成长计划#跨国情侣
+                      - generic [ref=e587]:
+                        - generic [ref=e588]:
+                          - img [ref=e589]
+                          - text: 45.0万
+                        - link "楚汐和小志(跨国见面中)" [ref=e592] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAhbAFfsK3VyNj1OgIk5jVRwcinRnPWEapBu4tlGoXQ-zq0ZIqyQ7LVdpS6Ic3uHvz?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e597]: 楚汐和小志(跨国见面中)
+                - listitem [ref=e598]:
+                  - generic [ref=e599]:
+                    - 'link "她说她没遇到我之前总觉得前世生活在中国，而我在国内找了几圈都没找到，一出国就找到了她，性格超好，还那么爱我，真是命中注定 #遇良人 #外国美女 #生活随拍 #宝藏女孩 #中外情侣 00:09" [ref=e601] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7647141591900496639
+                      - 'img "她说她没遇到我之前总觉得前世生活在中国，而我在国内找了几圈都没找到，一出国就找到了她，性格超好，还那么爱我，真是命中注定 #遇良人 #外国美女 #生活随拍 #宝藏女孩 #中外情侣" [ref=e605]'
+                      - generic [ref=e607]: 00:09
+                    - generic [ref=e608]:
+                      - 'heading "她说她没遇到我之前总觉得前世生活在中国，而我在国内找了几圈都没找到，一出国就找到了她，性格超好，还那么爱我，真是命中注定 #遇良人 #外国美女 #生活随拍 #宝藏女孩 #中外情侣" [level=3] [ref=e609]':
+                        - 'link "她说她没遇到我之前总觉得前世生活在中国，而我在国内找了几圈都没找到，一出国就找到了她，性格超好，还那么爱我，真是命中注定 #遇良人 #外国美女 #生活随拍 #宝藏女孩 #中外情侣" [ref=e610] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7647141591900496639
+                          - generic [ref=e615]: "她说她没遇到我之前总觉得前世生活在中国，而我在国内找了几圈都没找到，一出国就找到了她，性格超好，还那么爱我，真是命中注定 #遇良人 #外国美女 #生活随拍 #宝藏女孩 #中外情侣"
+                      - generic [ref=e616]:
+                        - generic [ref=e617]:
+                          - img [ref=e618]
+                          - text: "1406"
+                        - link "爱追梦的王子" [ref=e621] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAVfHHbR0DxMswjl-eg9E2ZKOodVqcYamPnC7JjcFJeeI?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e626]: 爱追梦的王子
+                - listitem [ref=e627]:
+                  - generic [ref=e628]:
+                    - 'link "凌晨去机场接丈母娘，一年没见瘦不少 #外国媳妇 02:27" [ref=e630] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7658466034618770917
+                      - 'img "凌晨去机场接丈母娘，一年没见瘦不少 #外国媳妇" [ref=e634]'
+                      - generic [ref=e636]: 02:27
+                    - generic [ref=e637]:
+                      - 'heading "凌晨去机场接丈母娘，一年没见瘦不少 #外国媳妇" [level=3] [ref=e638]':
+                        - 'link "凌晨去机场接丈母娘，一年没见瘦不少 #外国媳妇" [ref=e639] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7658466034618770917
+                          - generic [ref=e644]: "凌晨去机场接丈母娘，一年没见瘦不少 #外国媳妇"
+                      - generic [ref=e645]:
+                        - generic [ref=e646]:
+                          - img [ref=e647]
+                          - text: 6.5万
+                        - link "比利时媳妇金珀莉🇧🇪" [ref=e650] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAm6THOUbv2ThwoNqeQOqFhv7iWmp3oIMEOHBX5mXVKbCO4b8UE5z-Jdys2dIZ0uTv?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e656]:
+                            - text: 比利时媳妇金珀莉
+                            - img "🇧🇪" [ref=e657]
+                - listitem [ref=e658]:
+                  - generic [ref=e659]:
+                    - link "海利成成的来时路 相见，相恋，相爱，已经 12 年啦！虽然我们经历过大难，但是我们都还在！#海利成成 00:27" [ref=e661] [cursor=pointer]:
+                      - /url: //www.douyin.com/video/7657078614881968296
+                      - img "海利成成的来时路 相见，相恋，相爱，已经 12 年啦！虽然我们经历过大难，但是我们都还在！#海利成成" [ref=e665]
+                      - generic [ref=e667]: 00:27
+                    - generic [ref=e668]:
+                      - heading "海利成成的来时路 相见，相恋，相爱，已经 12 年啦！虽然我们经历过大难，但是我们都还在！#海利成成" [level=3] [ref=e669]:
+                        - link "海利成成的来时路 相见，相恋，相爱，已经 12 年啦！虽然我们经历过大难，但是我们都还在！#海利成成" [ref=e670] [cursor=pointer]:
+                          - /url: //www.douyin.com/video/7657078614881968296
+                          - generic [ref=e675]: 海利成成的来时路 相见，相恋，相爱，已经 12 年啦！虽然我们经历过大难，但是我们都还在！#海利成成
+                      - generic [ref=e676]:
+                        - generic [ref=e677]:
+                          - img [ref=e678]
+                          - text: "2135"
+                        - link "海利成成一生挚爱" [ref=e681] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAkX4hpUEWUKBk2H7eGEg4HXspynHVIwd1BM7vglvEhi0_SB-ihMpXYaA1CbQYIfSP?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e686]: 海利成成一生挚爱
+                - listitem [ref=e687]:
+                  - generic [ref=e688]:
+                    - 'link "结婚是为了和喜欢的人谈一辈子恋爱 #异国恋 #结婚 #外国媳妇 #远嫁 06:13" [ref=e690] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7655165810042259877
+                      - 'img "结婚是为了和喜欢的人谈一辈子恋爱 #异国恋 #结婚 #外国媳妇 #远嫁" [ref=e694]'
+                      - generic [ref=e696]: 06:13
+                    - generic [ref=e697]:
+                      - 'heading "结婚是为了和喜欢的人谈一辈子恋爱 #异国恋 #结婚 #外国媳妇 #远嫁" [level=3] [ref=e698]':
+                        - 'link "结婚是为了和喜欢的人谈一辈子恋爱 #异国恋 #结婚 #外国媳妇 #远嫁" [ref=e699] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7655165810042259877
+                          - generic [ref=e704]: "结婚是为了和喜欢的人谈一辈子恋爱 #异国恋 #结婚 #外国媳妇 #远嫁"
+                      - generic [ref=e705]:
+                        - generic [ref=e706]:
+                          - img [ref=e707]
+                          - text: 8.6万
+                        - link "西西里" [ref=e710] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAk7g92ExRrxRpm0Q9Oy2Lodr9vGBnPDNs7PcqFsNpiJCFC_hv7FG8p4_reX5YKjIl?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e715]: 西西里
+                - listitem [ref=e716]:
+                  - generic [ref=e717]:
+                    - 'link "主打一个听劝 #中外情侣#异国恋#睁眼看世界 00:13" [ref=e719] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7655085723904691491
+                      - 'img "主打一个听劝 #中外情侣#异国恋#睁眼看世界" [ref=e723]'
+                      - generic [ref=e725]: 00:13
+                    - generic [ref=e726]:
+                      - 'heading "主打一个听劝 #中外情侣#异国恋#睁眼看世界" [level=3] [ref=e727]':
+                        - 'link "主打一个听劝 #中外情侣#异国恋#睁眼看世界" [ref=e728] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7655085723904691491
+                          - generic [ref=e733]: "主打一个听劝 #中外情侣#异国恋#睁眼看世界"
+                      - generic [ref=e734]:
+                        - generic [ref=e735]:
+                          - img [ref=e736]
+                          - text: 10.8万
+                        - link "阿达和安娜" [ref=e739] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAY3mutGeg36W_yDrUHLzZMYbNawzsQO8XG2y5IGe6y9jH4PTfLTjN-lOUR5k2F-H-?author_id=7618462651321107513&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7656729743480129699&log_pb=%7B%22impr_id%22%3A%2220260708162133715CE3F0F52BE2B59BCE%22%7D&relation=0
+                          - generic [ref=e744]: 阿达和安娜
+        - contentinfo [ref=e745]:
+          - generic [ref=e746]:
+            - generic [ref=e747]:
+              - link "广告投放" [ref=e749] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e751] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e753] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e755] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e757] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e759] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e761] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e763] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e765] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e767] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e769] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+            - generic [ref=e770]:
+              - link "网络谣言曝光台 ｜" [ref=e772] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e774] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e775]: ｜ 违法和不良信息举报：400-140-2108 feedback@douyin.com ｜ 算法推荐专项举报：sfjubao@bytedance.com | 体育饭圈专项举报：tyfq@bytedance.com
+            - generic [ref=e776]:
+              - link "京ICP备16016397号-3" [ref=e778] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - generic [ref=e779]: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+              - generic [ref=e780]: ｜ 增值电信业务经营许可证 京B2-20170846
+              - generic [ref=e781]: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+              - generic [ref=e782]:
+                - img "icon" [ref=e783]
+                - link "京公网安备 11000002002046号" [ref=e784] [cursor=pointer]:
+                  - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+              - generic [ref=e785]: ｜ 互联网宗教信息服务许可证 京（2025）0000017
+            - generic [ref=e786]:
+              - generic [ref=e788]: 热门：
+              - link "抖音网页版入口" [ref=e790] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan
+              - link "抖音美食" [ref=e792] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan/food
+              - link "鑫源金店青州店" [ref=e794] [cursor=pointer]:
+                - /url: https://www.douyin.com/user/MS4wLjABAAAAl9q_MAORl_4IZk8T4iyoFJNd6aZuRpMcaWB7m8k3IRxK82rti3Q9x7Jh0FQtxDLC
+              - 'link "有空就去考这个关于aigc的证吧，别看现在很小众未来很吃香！黄仁勋一直在告诉我们ai的潜力#知识分享 #考证 #人工智能 #真实生活分享计划 #含金量高的证书" [ref=e796] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7659660477781902473
+              - link "新高考一卷数学答题卡排版" [ref=e798] [cursor=pointer]:
+                - /url: https://www.douyin.com/topic/7509858692112631834
+              - link "高考第一志愿什么时候填" [ref=e800] [cursor=pointer]:
+                - /url: https://www.douyin.com/shipin/7509918090684008502
+              - link "免费定向生云南" [ref=e802] [cursor=pointer]:
+                - /url: https://www.douyin.com/search/%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%90%91%E7%94%9F%E4%BA%91%E5%8D%97
+              - link "电影《寻秦记》票房破6000万" [ref=e804] [cursor=pointer]:
+                - /url: https://www.douyin.com/video/7590345927161591158?source=Baiduspider
+              - 'link "#钢结构 #旋转楼梯 #tekla" [ref=e806] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7361721686389050675?source=Baiduspider
+              - 'link "骑行环游中国开始了，今天第一天出发，准备去杭州，上海，舟山！#户外 #骑行" [ref=e808] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7362165155700002067?source=Baiduspider
+              - 'link "高一数学基础小题 指数函数题型一指数幂比大小以及解不等式问题#高中数学 #每日一题 #指数函数 #高一数学 #高中数学基础必刷题" [ref=e810] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7433788484617391420?source=Baiduspider-sdc
+              - 'link "云飞《天边》分享与您，航拍呼伦贝尔夏日风景与您共赏#创作灵感 #音乐 #旅行推荐官 #航拍最美家乡 #呼伦贝尔" [ref=e812] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7526179552163679546?source=Baiduspider
+              - 'link "关于磁轴和机械键盘的区别和误区，有错误望大家评论区指正 #磁轴键盘 #磁轴 #游戏外设 #机械键盘 #wooting" [ref=e814] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7453448468221152575?source=Baiduspider
+              - 'link "慎独y：卓尔拿到就有分，决赛神之一手拿一下一鸡 #慎独y #云顶之弈 #抖音电脑版" [ref=e816] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7460032472009477411?source=Baiduspider-sdc
+  - article [ref=e822]:
+    - img [ref=e824]
+    - generic [ref=e825]:
+      - generic [ref=e826]:
+        - generic [ref=e827]: 登录后免费畅享高清视频
+        - img [ref=e829] [cursor=pointer]
+      - generic [ref=e832]:
+        - generic [ref=e835]:
+          - generic [ref=e837] [cursor=pointer]: 扫码登录
+          - generic [ref=e841]:
+            - generic [ref=e842]:
+              - generic [ref=e843] [cursor=pointer]: 如何扫码
+              - img [ref=e846]
+            - paragraph [ref=e856]:
+              - paragraph [ref=e857]: 打开「抖音APP」点击左上角
+              - img [ref=e858]
+              - paragraph [ref=e864]: 扫一扫
+        - generic [ref=e867]:
+          - generic [ref=e868] [cursor=pointer]:
+            - generic [ref=e869]: 验证码登录
+            - img [ref=e871]
+            - generic [ref=e872]: 密码登录
+          - generic [ref=e876]:
+            - generic [ref=e878]:
+              - combobox "国家/地区" [ref=e881]: "+86"
+              - img [ref=e884]
+              - textbox "请输入手机号" [ref=e885]
+            - generic [ref=e887]:
+              - textbox "请输入验证码" [ref=e889]
+              - generic [ref=e890]: 获取验证码
+            - generic [ref=e893]: 登录
+            - generic "登录即代表同意用户协议和隐私政策" [ref=e895]:
+              - text: 登录即代表同意
+              - link "用户协议" [ref=e896] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - text: 和
+              - link "隐私政策" [ref=e897] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477

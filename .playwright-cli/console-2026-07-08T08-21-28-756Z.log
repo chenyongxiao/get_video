@@ -1,0 +1,92 @@
+[    2613ms] [LOG] %c JSHandle@node @ https://www.douyin.com/video/7656729743480129699?previous_page=app_code_link:0
+[    3063ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://www.douyin.com/video/7656729743480129699?previous_page=app_code_link:0
+[    3102ms] [LOG] init slardar @ https://www.douyin.com/video/7656729743480129699?previous_page=app_code_link:21
+[    3103ms] [LOG] init slardar success @ https://www.douyin.com/video/7656729743480129699?previous_page=app_code_link:101
+[    4197ms] [WARNING] [SDK] 1783498892950        0 already inited @ https://lf3-short.ibytedapm.com/slardar/fe/sdk-web/browser.cn.js?bid=douyin_web&globalName=Slardar:0
+[    4603ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-7.10b758b7.js:1
+[    4604ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-7.10b758b7.js:1
+[    4606ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-7.10b758b7.js:1
+[    6530ms] [WARNING] %c[xgplayer] color: #525252; background-color: yellow;  warn>>icons.[object Object] in config of plugin named [texttrack] is invalid @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/70721.3bb0e79c.js:1
+[    6531ms] [WARNING] %c[xgplayer] color: #525252; background-color: yellow;  warn>>icons.[object Object] in config of plugin named [texttrack] is invalid @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/70721.3bb0e79c.js:1
+[    6774ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[    6979ms] [WARNING] %c[xgplayer] color: #525252; background-color: yellow;  >>>>playPromise.catch NotAllowedError @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/libs/pre-build-xgplayer.7611266a.js:0
+[    6986ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/19511.3e658d1f.js:1
+[    7012ms] [ERROR] Failed to launch 'bitbrowser://cc/' because the scheme does not have a registered handler. @ https://www.douyin.com/video/7656729743480129699:0
+[    7618ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[    7619ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[    7628ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[    7882ms] [WARNING] Error while trying to use the following icon from the Manifest: https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/pwa_v3/192_192.png (Download error or resource isn't a valid image) @ https://www.douyin.com/video/7656729743480129699:0
+[    7906ms] [LOG] [ Federation Runtime ] Version 18.3.0-canary-587ae49d7-20230720 from @demo/douyin-web of shared singleton module react does not satisfy the requirement of @revenue-wallet-fe/recharge-web which needs ^18.3.1) @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/vmok-remote-entry.9a192be8.js:3
+[    7907ms] [LOG] [ Federation Runtime ] Version 18.3.0-canary-587ae49d7-20230720 from @demo/douyin-web of shared singleton module react-dom does not satisfy the requirement of @revenue-wallet-fe/recharge-web which needs ^18.3.1) @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/vmok-remote-entry.9a192be8.js:3
+[    7908ms] [WARNING] Cannot assign to read only property 'call' of object '#<Object>' @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.783d5811.js:1
+[    7911ms] [LOG] getRechargePackages requestParams {path: /webcast/diamond/, queryParams: Object} @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.783d5811.js:1
+[    8179ms] [LOG] [prefetch] packageData [local]:  {packages: Array(7), extra: Object} @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.783d5811.js:1
+[    8230ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    8230ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    8232ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    8328ms] [LOG] [c0] @ :2
+[    8528ms] [LOG] Service worker registration success @ https://www.douyin.com/video/7656729743480129699?previous_page=app_code_link:959
+[    8544ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/37074.a31dd05a.js:1
+[    8544ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/37074.a31dd05a.js:1
+[    8547ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/37074.a31dd05a.js:1
+[    8693ms] [WARNING] WARNING: Too many active WebGL contexts. Oldest context will be lost. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/11093.724d8b0a.js:1
+[    9692ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-cdn-tos.bytescm.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.40/setup.js:37
+[   12027ms] [WARNING] WARNING: Too many active WebGL contexts. Oldest context will be lost. @ https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/bdms_1.0.1.19_fix.js:1
+[   78903ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[   78904ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  159823ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  159824ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  248339ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  248339ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  248344ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  248835ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  248836ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  248837ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  248894ms] [LOG] [c0] @ :2
+[  251937ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  251938ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  472535ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  472536ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  488899ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  488900ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  488903ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.4c6860bc.js:1
+[  489164ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  489165ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  489167ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[  489228ms] [LOG] [c0] @ :2
+[  593449ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  593449ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  606678ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  606679ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  654944ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  654944ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  694047ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  694048ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  724403ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  724405ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  764501ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  764502ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[  940821ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[  940823ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1117192ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1117193ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1178753ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1178754ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1439794ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1439794ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1444743ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1444744ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1561090ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1561091ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1742147ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1742148ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1802615ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1802616ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1823805ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1823805ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1842955ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1842955ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 1986725ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 1986725ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
+[ 2497913ms] [ERROR] Access to fetch at 'https://security.zijieapi.com/api/metrics/emit' from origin 'https://www.douyin.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.douyin.com/video/7656729743480129699:0
+[ 2497914ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://security.zijieapi.com/api/metrics/emit:0
